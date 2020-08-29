@@ -1,2 +1,2 @@
 # .demo
-dor-demo repo
+dot demo repository
